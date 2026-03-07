@@ -2,9 +2,7 @@
 # TenTalk
 A private, self-destructing chat room application. Rooms automatically expire after 10 minutes, ensuring ephemeral conversations.
 
-## Demo
-
-[View Demo](https://your-link-here.com)
+## Demo --> [View Demo](https://tentalkk.vercel.app/)
 
 
 ## Features
