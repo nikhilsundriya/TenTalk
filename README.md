@@ -1,16 +1,10 @@
 <img width="4500" height="1500" alt="TenTalk Banner" src="./public/og.png">
-
-
 # TenTalk
-
 A private, self-destructing chat room application. Rooms automatically expire after 10 minutes, ensuring ephemeral conversations.
 
 ## Demo
 
-
-
-https://github.com/user-attachments/assets/0c35d501-6fc7-4020-8fb0-470c9a9ac9dc
-
+[View Demo](https://your-link-here.com)
 
 
 ## Features
