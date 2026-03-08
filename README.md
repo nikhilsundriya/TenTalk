@@ -123,7 +123,7 @@ TenTalk/
 │   ├── layout.tsx                 # Root layout
 │   ├── page.tsx                   # Home/landing page
 │   ├── globals.css                # Global styles
-│   └── favicon.ico
+│   └── icon.png
 ├── components/                     # React components
 │   ├── ui/                        # Base UI components (COSS UI)
 │   │   ├── button.tsx
