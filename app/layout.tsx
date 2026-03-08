@@ -19,7 +19,7 @@ export const metadata: Metadata = {
   openGraph: {
     images: [
       {
-        url: "https://tentalk-five.vercel.app/og.png",
+        url: "https://tentalkk.vercel.app/og.png",
         width: 1200,
         height: 630,
         alt: "TenTalk",
@@ -28,7 +28,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    images: ["https://tentalk-five.vercel.app/og.png"],
+    images: ["https://tentalkk.vercel.app/og.png"],
   },
 };
 
