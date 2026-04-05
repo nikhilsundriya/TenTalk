@@ -106,7 +106,6 @@ export const proxy = async (req: NextRequest) => {
 
   return response
 }
-
 export const config = {
   matcher: "/room/:path*",
 }
