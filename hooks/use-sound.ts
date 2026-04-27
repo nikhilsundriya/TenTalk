@@ -15,6 +15,6 @@ export function useSound(soundPath: string) {
     audioRef.current.currentTime = 0
     audioRef.current.play().catch(() => {})
   }, [soundPath])
-
+  
   return play
 }
