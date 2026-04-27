@@ -8,7 +8,6 @@ const generateUsername = () => {
   const word = FRUITS[Math.floor(Math.random() * FRUITS.length)]
   return `anonymous-${word}-${nanoid(5)}`
 }
-
 export const useUsername = () => {
   const [username, setUsername] = useState("")
 
@@ -20,7 +19,6 @@ export const useUsername = () => {
         setUsername(stored)
         return
       }
-
       const generated = generateUsername()
       localStorage.setItem(STORAGE_KEY, generated)
       setUsername(generated)
